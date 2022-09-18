@@ -1,2 +1,2 @@
 #firstRepo
-This is my first project push into Github
+This is my first project pushed into Github
